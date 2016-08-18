@@ -1,4 +1,4 @@
-public class Solution {
+public class PermCheck {
 
     private static final int PERMUTATION = 1;
     private static final int NOT_PERMUTATION = 0;
