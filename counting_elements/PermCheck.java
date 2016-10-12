@@ -1,3 +1,5 @@
+package counting_elements;
+
 public class PermCheck {
 
     private static final int PERMUTATION = 1;

@@ -1,3 +1,5 @@
+package prefixsum;
+
 /**
  * Created by jackson on 8/17/16.
  */
